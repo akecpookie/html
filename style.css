@@ -8,4 +8,9 @@ height:75px;
 }
 .htmlText{
   color:white;
+  text-align:center;
+}
+.blackText{
+  color:black;
+  text-align:center;
 }
